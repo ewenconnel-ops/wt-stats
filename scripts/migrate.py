@@ -33,9 +33,23 @@ RAW_URL = os.environ.get(
 PLAIN_URL = re.sub(r"^postgresql\+psycopg://", "postgresql://", RAW_URL)
 
 
+def strip_comments(sql: str) -> str:
+    """Removes '-- ...' comments per line so they can't be mistaken for
+    statement text — needed because some comments in these migration files
+    contain semicolons mid-sentence, which would otherwise confuse the
+    naive split on ';' below."""
+    lines = []
+    for line in sql.splitlines():
+        idx = line.find("--")
+        lines.append(line[:idx] if idx != -1 else line)
+    return "\n".join(lines)
+
+
 def split_statements(sql: str) -> list[str]:
-    """Naive split on ';' — fine for these migration files (no functions/triggers
-    with embedded semicolons). Revisit if a future migration needs those."""
+    """Naive split on ';' after stripping comments — fine for these
+    migration files (no functions/triggers with embedded semicolons in
+    actual statement text). Revisit if a future migration needs those."""
+    sql = strip_comments(sql)
     return [s.strip() for s in sql.split(";") if s.strip()]
 
 
