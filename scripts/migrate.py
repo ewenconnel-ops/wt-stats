@@ -13,18 +13,24 @@ Run automatically on Render: set the build command to
 """
 from __future__ import annotations
 
+import os
 import pathlib
 import re
 
 import psycopg
 
-from app.database import DATABASE_URL
-
 MIGRATIONS_DIR = pathlib.Path(__file__).parent.parent / "migrations"
 
-# app/database.py's DATABASE_URL is a SQLAlchemy URL (postgresql+psycopg://...);
-# psycopg.connect wants the plain libpq form (postgresql://...).
-PLAIN_URL = re.sub(r"^postgresql\+psycopg://", "postgresql://", DATABASE_URL)
+# Reads DATABASE_URL directly from the environment rather than importing
+# app.database, so this script has no dependency on the app package being
+# importable (it isn't, when run as `python scripts/migrate.py` — that puts
+# scripts/ on sys.path, not the repo root).
+RAW_URL = os.environ.get(
+    "DATABASE_URL", "postgresql+psycopg://wt_stats:wt_stats@localhost:5432/wt_stats"
+)
+# Accept either form (postgresql://... or postgresql+psycopg://...);
+# psycopg.connect wants the plain libpq form.
+PLAIN_URL = re.sub(r"^postgresql\+psycopg://", "postgresql://", RAW_URL)
 
 
 def split_statements(sql: str) -> list[str]:
