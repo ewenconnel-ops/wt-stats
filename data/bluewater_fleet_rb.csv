@@ -1,0 +1,331 @@
+id,name,country,rank,br_realistic
+fr_destroyer_bourrasque_class_bourrasque,"Bourrasque",france,1,3.7
+fr_destroyer_hunt_3series,"La Combattante",france,1,4.0
+fr_destroyer_aigle_class_vautour,"Vautour",france,2,4.3
+fr_destroyer_vauquelin_class_vauquelin,"Vauquelin",france,2,4.3
+fr_cruiser_chateaurenault_class_guichen,"Guichen",france,2,4.7
+fr_destroyer_le_fantasque_class_le_malin,"Le Malin",france,3,4.7
+fr_cruiser_dugauy_class_primaguet,"Primauguet",france,3,5.0
+fr_cruiser_suffren_class_colbert,"Colbert",france,4,5.3
+fr_battleship_courbet_class_paris,"Paris",france,5,6.0
+fr_battleship_bretagne_class_lorraine,"Lorraine",france,5,6.3
+fr_destroyer_jaguar_class_leopard,"Leopard",france,1,3.7
+fr_destroyer_jaguar_class_chacal,"Chacal",france,1,4.0
+fr_destroyer_desaix_class_kleber,"Kleber",france,2,4.3
+fr_destroyer_aigle_class_milan,"Milan",france,2,4.3
+fr_destroyer_marceau_class_marceau,"Marceau",france,2,4.3
+fr_cruiser_jeanne_darc,"Jeanne d&#039;Arc",france,3,4.7
+fr_cruiser_emile_bertin,"Emile Bertin",france,4,5.3
+fr_battleship_bretagne_class_bretagne,"Bretagne",france,5,6.7
+fr_destroyer_jaguar_class_panthere,"Panthere",france,1,3.7
+fr_destroyer_bourrasque_class_tornade,"Tornade",france,1,3.7
+fr_destroyer_aigle_class_aigle,"Aigle",france,2,4.3
+fr_destroyer_le_fantasque_class_le_triomphant,"Le Triomphant",france,3,4.7
+fr_cruiser_dugauy_class_dugauy_trouin,"Duguay-Trouin",france,3,5.0
+fr_cruiser_suffren_class_dupleix,"Dupleix",france,4,5.7
+fr_battleship_courbet_class_courbet,"Courbet",france,5,6.0
+germ_battleship_helgoland,"SMS Helgoland",germany,5,6.7
+germ_battleship_kaiser,"SMS Kaiser",germany,5,6.7
+germ_battleship_bayern,"SMS Bayern",germany,6,7.0
+germ_battleship_sachsen,"SMS Sachsen",germany,6,7.0
+germ_battlecruiser_von_der_tann,"SMS Von der Tann",germany,5,6.0
+germ_battleship_nassau,"SMS Nassau",germany,5,6.0
+germ_battleship_ostfriesland,"SMS Ostfriesland",germany,5,6.7
+germ_battleship_baden,"SMS Baden",germany,6,7.0
+fr_destroyer_mogador_class_mogador,"Mogador",france,3,5.0
+germ_battlecruiser_derfflinger,"SMS Derfflinger",germany,5,6.7
+fr_battleship_dunkerque,"Dunkerque",france,6,7.0
+fr_cruiser_la_galissoniere_class_la_galissoniere,"La Galissonnière",france,4,5.7
+germ_battlecruiser_ersatz_yorck,"Ersatz Yorck",germany,6,7.0
+fr_battleship_strasbourg,"Strasbourg",france,6,7.3
+fr_battleship_richelieu_class_richelieu,"Richelieu",france,7,8.3
+germ_battleship_bismarck,"Bismarck",germany,7,8.3
+germ_battleship_gneisenau_380mm,"Gneisenau",germany,6,7.7
+germ_battlecruiser_mackensen_class,"Mackensen",germany,6,7.0
+fr_cruiser_la_galissoniere_class_gloire,"Gloire",france,4,5.7
+fr_battleship_richelieu_class_clemenceau,"Clemenceau",france,7,8.3
+germ_battleship_konig,"SMS König",germany,5,6.7
+fr_cruiser_suffren_class_suffren,"Suffren",france,4,5.3
+fr_destroyer_guepard_class_verdun,"Verdun",france,1,4.0
+fr_battleship_richelieu_class_jean_bart,"Jean Bart",france,7,8.3
+fr_cruiser_algerie_class,"Algerie",france,5,6.0
+germ_destroyer_class1924_leopard1932,"Leopard",germany,1,3.7
+germ_destroyer_class1934a_1944,"Z15 Erich Steinbrinck",germany,1,4.0
+germ_destroyer_class1934a_1940,"Z12 Erich Giese",germany,2,4.3
+germ_destroyer_class1936a_mob_z32,"Z32",germany,2,4.7
+germ_destroyer_class1936c_z46,"Z46",germany,3,5.0
+germ_cruiser_leipzig,"Leipzig",germany,4,5.3
+germ_cruiser_nurnberg,"Nürnberg",germany,4,5.7
+germ_cruiser_admiral_hipper,"Admiral Hipper",germany,4,6.0
+germ_battleship_westfalen,"SMS Westfalen",germany,5,6.0
+germ_destroyer_class1939_t22,"T22",germany,1,3.7
+germ_kanonenboot_k2,"K2",germany,1,4.3
+germ_destroyer_class1936_z20,"Z22 Anton Schmitt",germany,2,4.3
+germ_destroyer_class1936b,"Z43",germany,2,4.7
+germ_cruiser_elbing,"SMS Elbing",germany,3,4.7
+germ_cruiser_emden_1944,"Emden",germany,3,5.0
+germ_cruiser_koln,"Köln",germany,4,5.3
+germ_cruiser_admiral_graf_spee,"Admiral Graf Spee",germany,4,6.0
+germ_battleship_scharnhorst,"Scharnhorst",germany,6,7.3
+germ_destroyer_class1924_iltis,"Luchs",germany,1,3.7
+germ_destroyer_class1924_jaguar1941,"Jaguar",germany,2,3.7
+germ_destroyer_class1936c_z47,"Z47",germany,3,5.0
+germ_destroyer_class1936_z20_karlgalster,"Z20 Karl Galster",germany,3,4.7
+germ_cruiser_karlsruhe,"Karlsruhe",germany,4,5.7
+germ_cruiser_prinz_eugen,"Prinz Eugen",germany,4,6.0
+germ_destroyer_class1939_t31,"T31",germany,3,4.0
+germ_destroyer_class1936a_z25,"Z25",germany,3,4.3
+it_cruiser_bartolomeocolleoni_1940,"RN Bartolomeo Colleoni",italy,3,5.0
+it_cruiser_montecuccoli,"RN Raimondo Montecuccoli",italy,4,5.3
+it_cruiser_eugenio_di_savoia,"RN Eugenio di Savoia",italy,4,5.7
+it_cruiser_garibaldi_class_abruzzi,"RN Duca degli Abruzzi",italy,5,5.7
+it_battleship_dante_alighieri,"RN Dante Alighieri",italy,5,6.3
+it_battleship_conte_di_cavour,"RN Conte di Cavour",italy,6,7.3
+it_cruiser_etna_class,"RN Etna",italy,3,4.7
+it_cruiser_capitani_romani_class_attilio_regolo,"RN Attilio Regolo",italy,3,4.7
+it_cruiser_bolzano,"RN Bolzano",italy,4,5.7
+it_battleship_andrea_doria,"RN Andrea Doria",italy,5,6.3
+it_battleship_caio_duilio,"RN Duilio",italy,6,7.3
+it_battleship_leonardo_da_vinci,"RN Leonardo da Vinci",italy,5,6.3
+it_battleship_francesco_caracciolo,"RN Francesco Caracciolo",italy,5,6.7
+germ_destroyer_fletcher_zerstorer4,"Z4 Zerstörer",germany,2,4.7
+it_battleship_littorio_class_roma,"RN Roma",italy,7,8.3
+germ_destroyer_class1942_z51,"Z51",germany,3,4.7
+it_cruiser_cadorna_class_cadorna,"RN Luigi Cadorna",italy,3,5.3
+it_battleship_littorio_class_littorio,"RN Italia",italy,7,8.3
+germ_destroyer_lutjens_class_lutjens,"Lütjens",germany,4,5.3
+it_cruiser_cadorna_class_diaz,"RN Armando Diaz",italy,3,5.3
+germ_destroyer_class1944_z52,"Z52",germany,3,5.0
+germ_kanonenboot_k4_lorelei,"Lorelei",germany,1,3.7
+germ_cruiser_admiral_scheer,"Admiral Scheer",germany,4,5.7
+it_battleship_giulio_cesare,"RN Giulio Cesare",italy,6,7.3
+it_destroyer_turbine,"RN Turbine",italy,1,3.3
+it_destroyer_dardo,"RN Dardo",italy,1,3.7
+it_destroyer_leone_class,"RN Leone",italy,2,4.0
+it_destroyer_soldati_serie1_camicianera,"RN Corazziere",italy,2,4.3
+it_destroyer_navigatori_class_verazzano,"RN Da Verazzano",italy,3,4.3
+it_destroyer_vifor_class_aquila,"RN Aquila",italy,1,3.3
+it_destroyer_comandanti_medaglie_doro,"RN Comandante Margottini",italy,2,4.0
+it_destroyer_impetuoso_class_impetuoso,"Impetuoso",italy,2,4.3
+it_cruiser_trento,"RN Trento",italy,4,5.3
+it_cruiser_zara_class,"RN Zara",italy,5,6.0
+it_destroyer_aquilone,"RN Aquilone",italy,1,3.3
+it_destroyer_fletcher_geniere,"Geniere",italy,2,4.7
+it_destroyer_leone_class_tigre,"RN Tigre",italy,3,4.0
+it_destroyer_soldati_serie1_geniere,"RN Geniere",italy,3,4.3
+it_cruiser_zara_class_pola,"RN Pola",italy,4,6.0
+it_destroyer_soldati_serie1,"RN Aviere",italy,3,4.0
+jp_cruiser_kako,"IJN Kako",japan,3,5.0
+jp_cruiser_furutaka,"IJN Furutaka",japan,4,5.7
+jp_cruiser_aoba,"IJN Aoba",japan,4,5.7
+jp_cruiser_haguro,"IJN Haguro",japan,4,6.0
+jp_cruiser_tone,"IJN Tone",japan,5,6.0
+jp_battleship_settsu,"IJN Settsu",japan,5,6.3
+jp_battleship_fuso,"IJN Fuso",japan,6,7.7
+jp_cruiser_isuzu,"IJN Isuzu",japan,3,4.7
+jp_cruiser_kuma,"IJN Tama",japan,3,5.0
+jp_cruiser_sendai,"IJN Sendai",japan,3,5.0
+jp_cruiser_agano,"IJN Agano",japan,4,5.3
+jp_cruiser_mogami_suzuya,"IJN Suzuya",japan,5,6.0
+jp_cruiser_mogami,"IJN Mogami",japan,5,6.0
+jp_battleship_hyuga,"IJN Hyuga",japan,5,7.0
+jp_battleship_ise,"IJN Ise",japan,6,7.7
+jp_armoredcruiser_ikoma,"IJN Ikoma",japan,4,5.7
+jp_battlecruiser_kongo,"IJN Kongo",japan,6,7.3
+jp_battleship_mutsu,"IJN Mutsu",japan,6,8.0
+jp_cruiser_myoko,"IJN Myoko",japan,4,6.0
+jp_cruiser_mogami_mikuma,"IJN Mikuma",japan,5,6.0
+jp_battleship_yamashiro,"IJN Yamashiro",japan,5,7.0
+jp_armoredcruiser_kurama,"IJN Kurama",japan,5,5.7
+jp_battlecruiser_haruna,"IJN Haruna",japan,5,7.3
+jp_battlecruiser_amagi,"IJN Amagi",japan,6,8.0
+jp_battlecruiser_kirishima,"IJN Kirishima",japan,5,7.3
+it_destroyer_maestrale_class_grecale,"Grecale",italy,1,3.7
+jp_battleship_yamato,"IJN Yamato",japan,7,8.7
+jp_battlecruiser_hiei,"IJN Hiei",japan,5,6.7
+jp_battleship_musashi,"IJN Musashi",japan,7,8.7
+jp_battleship_nagato,"IJN Nagato",japan,6,8.3
+jp_cruiser_oyodo,"IJN Oyodo",japan,4,5.3
+jp_battleship_tosa,"IJN Tosa",japan,6,8.0
+it_destroyer_oriani_class_gioberti,"RN Vincenzo Gioberti",italy,1,3.7
+it_destroyer_saetta,"RN Saetta",italy,1,3.7
+uk_cruiser_arethusa,"HMS Arethusa",britain,3,5.3
+uk_cruiser_leander,"HMNZS Leander",britain,4,5.3
+uk_battleship_dreadnought,"HMS Dreadnought",britain,5,6.0
+uk_battleship_orion,"HMS Orion",britain,5,6.7
+uk_battleship_marlborough,"HMS Marlborough",britain,6,7.0
+uk_cruiser_dido,"HMS Dido",britain,4,5.3
+uk_battleship_colossus,"HMS Colossus",britain,5,6.3
+uk_cruiser_enterprise_d52,"HMS Enterprise",britain,3,5.0
+uk_cruiser_hawkins,"HMS Hawkins",britain,3,5.3
+uk_cruiser_kent,"HMS Kent",britain,4,5.7
+uk_battlecruiser_glorious,"HMS Glorious",britain,5,5.7
+uk_battlecruiser_invincible,"HMS Invincible",britain,4,5.7
+uk_battlecruiser_queen_mary,"HMS Queen Mary",britain,5,6.3
+uk_battlecruiser_hood,"HMS Hood",britain,6,7.7
+uk_cruiser_belfast,"HMS Belfast",britain,4,6.0
+uk_battleship_iron_duke,"HMS Iron Duke",britain,5,7.0
+uk_battlecruiser_renown,"HMS Renown",britain,5,7.0
+jp_destroyer_momi,"IJN Momi",japan,1,3.3
+jp_destroyer_harukaze,"JDS Harukaze (DD-101)",japan,2,4.0
+jp_destroyer_akizuki,"IJN Akizuki",japan,3,4.7
+jp_destroyer_mutsuki,"IJN Mutsuki",japan,1,3.3
+jp_destroyer_fubuki,"IJN Ayanami",japan,2,4.3
+jp_destroyer_yugumo,"IJN Yugumo",japan,2,4.7
+jp_destroyer_hatsuharu,"IJN Hatsuharu",japan,2,4.3
+jp_destroyer_satsuki,"IJN Satsuki",japan,1,3.3
+jp_destroyer_nenohi,"IJN Nenohi",japan,2,4.3
+jp_destroyer_yugure,"JDS Yūgure (DD-184)",japan,2,4.7
+jp_destroyer_kiyoshimo,"IJN Kiyoshimo",japan,3,4.7
+jp_cruiser_yubari,"IJN Yubari",japan,3,4.7
+jp_destroyer_shimakaze,"IJN Shimakaze",japan,3,5.0
+jp_destroyer_hayanami,"IJN Hayanami",japan,2,4.7
+jp_destroyer_hatsuzuki,"IJN Hatsuzuki",japan,3,4.7
+jp_destroyer_yuudachi,"IJN Yuudachi",japan,3,4.3
+uk_battleship_q_elizabet_class_barham,"HMS Barham",britain,6,7.3
+uk_battlecruiser_repulse,"HMS Repulse",britain,6,7.0
+jp_destroyer_murasame,"JDS Murasame (DD-107)",japan,2,4.3
+uk_battleship_rodney,"HMS Rodney",britain,6,7.7
+uk_battleship_q_elizabet_class_warspite,"HMS Warspite",britain,6,7.7
+jp_destroyer_matsu,"IJN Matsu",japan,1,3.7
+uk_battleship_vanguard,"HMS Vanguard",britain,7,8.3
+jp_destroyer_yukikaze,"IJN Yukikaze",japan,3,4.3
+uk_battleship_nelson,"HMS Nelson",britain,6,7.7
+jp_minelayer_tsugaru,"IJN Tsugaru",japan,2,4.0
+uk_battleship_centurion,"HMS Centurion",britain,5,6.7
+uk_cruiser_fiji_class_fiji,"HMS Fiji",britain,4,5.7
+uk_battleship_prince_of_wales,"HMS Prince of Wales",britain,6,8.0
+jp_destroyer_kagero,"IJN Kagero",japan,3,4.7
+jp_destroyer_tade,"IJN Tade",japan,1,3.3
+jp_destroyer_suzutsuki,"IJN Suzutsuki",japan,3,4.7
+uk_battleship_lion_class,"HMS Lion",britain,7,8.7
+uk_destroyer_v_class_vega,"HMS Vega",britain,1,3.7
+uk_destroyer_hunt_2series,"HMS Calpe",britain,1,4.3
+uk_destroyer_tribal,"HMS Eskimo",britain,2,4.3
+uk_destroyer_n_class,"HMAS Nepal",britain,2,4.3
+uk_destroyer_battle_2series,"HMS Armada",britain,3,4.7
+uk_destroyer_battle_tobruk,"HMAS Tobruk",britain,3,4.7
+uk_cruiser_southampton,"HMS Southampton",britain,4,6.0
+uk_destroyer_g_grafton,"HMS Grafton",britain,1,3.7
+uk_destroyer_hunt_4series,"HMS Brissenden",britain,2,4.3
+uk_destroyer_k_class,"HMS Kelvin",britain,2,4.3
+uk_destroyer_daring_class_diana,"HMS Diana",britain,3,5.0
+uk_destroyer_daring_class_daring,"HMS Daring",britain,3,5.0
+uk_cruiser_york,"HMS York",britain,4,5.3
+uk_destroyer_clemson_churchill,"HMS Churchill",britain,1,3.3
+uk_minelayer_abdiel_class_abdiel,"HMS Abdiel",britain,2,4.7
+uk_cruiser_norfolk,"HMS Norfolk",britain,4,5.7
+uk_cruiser_london,"HMS London",britain,4,5.7
+uk_destroyer_v_class_verdun,"HMS Verdun",britain,1,3.7
+uk_destroyer_v_class_valhalla,"HMS Valhalla",britain,1,3.3
+uk_destroyer_j_class,"HMS Jervis",britain,2,4.3
+uk_destroyer_tribal_mohawk,"HMS Mohawk",britain,2,4.3
+uk_destroyer_haida,"HMCS Haida",britain,3,4.3
+uk_destroyer_daring_class_diamond,"HMS Diamond",britain,3,5.0
+uk_cruiser_liverpool,"HMS Liverpool",britain,4,5.7
+uk_destroyer_clemson_montgomery_g95,"HMS Montgomery",britain,1,3.3
+uk_destroyer_g_garland,"ORP Garland",britain,2,3.7
+uk_destroyer_battle_cadiz,"HMS Cadiz",britain,3,4.7
+uk_cruiser_tiger,"HMS Tiger",britain,5,6.0
+ussr_cruiser_krasnyi_kavkaz,"Krasny Kavkaz",ussr,3,5.0
+ussr_cruiser_krasnyi_krim,"Krasny Krym",ussr,3,5.3
+ussr_cruiser_kirov,"Kirov",ussr,4,5.7
+ussr_cruiser_chapayev,"Chapayev",ussr,4,6.0
+ussr_battleship_poltava,"Poltava",ussr,5,6.3
+ussr_battleship_parizhskaya_kommuna,"Parizhskaya Kommuna",ussr,5,6.7
+ussr_battleship_novorossiysk,"Novorossiysk",ussr,6,7.3
+ussr_cruiser_mikhail_kutuzov,"Mikhail Kutuzov",ussr,4,6.0
+ussr_battleship_imperatritsa_mariya,"Imperatritsa Mariya",ussr,5,6.7
+ussr_battlecruiser_kronshtadt,"Kronshtadt",ussr,6,7.3
+ussr_cruiser_kerch,"Kerch",ussr,4,5.7
+ussr_battleship_marat,"Marat",ussr,5,6.7
+ussr_cruiser_maxim_gorky,"Maxim Gorky",ussr,5,5.7
+ussr_battlecruiser_izmail,"Izmail",ussr,5,7.0
+ussr_battleship_arhangelsk,"Arkhangelsk",ussr,6,7.7
+ussr_battleship_pr23_sovetskij_soyuz,"Sovetsky Soyuz",ussr,7,8.7
+ussr_battlecruiser_sevastopol,"Sevastopol",ussr,6,7.3
+uk_destroyer_st_class_saumarez,"HMS Saumarez",britain,1,4.0
+ussr_battlecruiser_stalingrad,"Stalingrad",ussr,6,7.7
+uk_egret_class,"HMS Egret",britain,2,4.3
+ussr_cruiser_chervona_ukraina,"Chervona Ukraina",ussr,3,5.3
+ussr_battleship_oktyabrskaya_revolutsiya,"Oktyabrskaya Revolutsiya",ussr,5,6.7
+us_cruiser_atlanta_class_atlanta,"USS Atlanta",usa,4,5.7
+us_cruiser_fargo_class,"USS Fargo",usa,4,6.0
+us_cruiser_brooklyn_class_brooklyn,"USS Brooklyn",usa,4,6.3
+us_battleship_texas,"USS Texas",usa,5,6.7
+us_battleship_arizona_1931,"USS Arizona",usa,6,7.3
+us_cruiser_cleveland_class_cleveland,"USS Cleveland",usa,4,6.0
+us_battleship_north_dakota,"USS North Dakota",usa,5,6.3
+us_battleship_wyoming_class,"USS Wyoming",usa,5,6.7
+us_battleship_nevada,"USS Nevada",usa,6,7.3
+us_cruiser_northampton_class,"USS Northampton",usa,4,5.7
+us_cruiser_new_orleans_class,"USS New Orleans",usa,4,6.0
+us_cruiser_baltimore_class_pittsburgh,"USS Pittsburgh",usa,5,6.3
+us_battlecruiser_alaska_class,"USS Alaska",usa,6,7.3
+us_cruiser_brooklyn_class_helena,"USS Helena",usa,4,6.3
+us_cruiser_baltimore_class,"USS Baltimore",usa,5,6.3
+us_battleship_arkansas,"USS Arkansas",usa,5,6.7
+us_battleship_mississippi,"USS Mississippi",usa,6,7.7
+us_cruiser_des_moines_class_newport_news,"USS Newport News",usa,5,6.7
+us_cruiser_des_moines_class,"USS Des Moines",usa,5,6.7
+ussr_destroyer_frunze,"Frunze",ussr,1,3.3
+ussr_destroyer_pr45,"Opytny",ussr,1,3.7
+ussr_destroyer_7_besposhchadny,"Besposhchadny",ussr,1,4.0
+ussr_destroyer_moskva,"Moskva",ussr,2,4.3
+ussr_destroyer_7y,"Soobrazitelny",ussr,2,4.7
+ussr_cruiser_sverdlov,"Sverdlov",ussr,4,6.0
+ussr_destroyer_regele_ferdinand_class_letuchiy,"Letuchiy",ussr,1,4.0
+ussr_destroyer_pr30_ognevoy,"Ognevoy",ussr,2,4.3
+ussr_destroyer_pr30bis_bezuprechnyi,"Bezuprechny",ussr,2,4.3
+ussr_destroyer_pr20_tashkent,"Tashkent",ussr,3,5.0
+ussr_destroyer_pr56_spokoinyy,"Spokoinyy",ussr,3,5.3
+ussr_destroyer_pr56_bravy,"Bravy",ussr,4,5.3
+ussr_destroyer_kerch,"Kerch",ussr,1,3.3
+ussr_destroyer_7_ryany,"Ryany",ussr,2,4.3
+ussr_destroyer_pr30bis_smelyi,"Smelyi",ussr,2,4.3
+ussr_destroyer_leningrad,"Leningrad",ussr,3,4.3
+ussr_destroyer_pr56_blagorodny,"Blagorodnyy",ussr,3,5.3
+ussr_cruiser_zheleznyakov,"Zheleznyakov",ussr,4,6.0
+ussr_cruiser_shcherbakov,"Shcherbakov",ussr,5,6.0
+ussr_destroyer_7y_stroyny,"Stroyny",ussr,3,4.7
+ussr_destroyer_pr41_neustrashimy,"Neustrashimy",ussr,3,5.3
+ussr_cruiser_voroshilov,"Voroshilov",ussr,4,5.7
+us_battleship_tennessee,"USS Tennessee",usa,6,7.7
+ussr_cruiser_omaha_class_murmansk,"Murmansk",ussr,3,5.0
+us_battleship_colorado_class_colorado,"USS Colorado",usa,6,7.7
+us_battleship_iowa_class_iowa,"USS Iowa",usa,7,8.7
+us_battleship_colorado_class_maryland,"USS Maryland",usa,6,7.7
+ussr_destroyer_pr48k_erevan,"Erevan",ussr,3,5.0
+us_battleship_south_dakota,"USS South Dakota",usa,7,8.3
+us_battleship_oklahoma,"USS Oklahoma",usa,6,7.0
+us_battleship_north_carolina_class,"USS North Carolina",usa,7,8.3
+us_destroyer_clemson_litchfield,"USS Litchfield",usa,1,3.3
+us_destroyer_farragut_1942,"USS Aylwin",usa,1,3.7
+us_destroyer_sumner,"USS Sumner",usa,3,5.0
+us_destroyer_gearing,"USS Gearing",usa,3,5.0
+us_destroyer_porter_1941,"USS Porter",usa,3,5.3
+us_destroyer_somers,"USS Somers",usa,3,5.3
+us_cruiser_worcester_class_roanoke,"USS Roanoke",usa,5,6.3
+us_destroyer_clemson_barker,"USS Barker",usa,1,3.3
+us_destroyer_fletcher,"USS Fletcher",usa,2,4.7
+us_destroyer_mitscher,"USS Mitscher",usa,2,4.7
+us_cruiser_omaha_class_trenton,"USS Trenton",usa,3,5.0
+us_cruiser_omaha_class_raleigh,"USS Raleigh",usa,3,5.0
+us_cruiser_portland_class,"USS Portland",usa,4,5.7
+us_cruiser_pensacola_class,"USS Pensacola",usa,4,5.7
+us_destroyer_clemson_welborn_c_wood,"USS Welborn C. Wood",usa,1,3.3
+us_destroyer_mitscher_wilkinson,"USS Wilkinson",usa,2,4.7
+us_destroyer_gearing_frank_knox,"USS Frank Knox",usa,3,5.0
+us_destroyer_fletcher_cowell,"USS Cowell",usa,3,4.7
+us_destroyer_porter_1942,"USS Moffett",usa,3,5.3
+us_destroyer_fletcher_bennion,"USS Bennion",usa,3,4.7
+us_destroyer_somers_davis,"USS Davis",usa,3,5.3
+us_destroyer_porter_1944,"USS Phelps",usa,3,5.0
+us_cruiser_omaha_class_detroit,"USS Detroit",usa,3,5.0
+us_destroyer_bagley_class_bagley,"USS Bagley",usa,2,4.0
+us_destroyer_cf_adams_class_cf_adams,"USS Charles F. Adams",usa,4,5.3
+us_cruiser_oregon_class,"USS Oregon City",usa,5,6.3
+us_destroyer_forrestsherman_class,"USS Forrest Sherman",usa,4,5.3
+us_destroyer_bagley_class_helm,"USS Helm",usa,2,4.0
+us_destroyer_gridley,"USS Gridley",usa,2,4.0
+us_destroyer_mahan_class,"USS Mahan",usa,2,4.3

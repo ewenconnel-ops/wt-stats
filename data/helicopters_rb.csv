@@ -1,0 +1,113 @@
+id,name,country,rank,br_realistic
+ah_1f,"AH-1F",usa,6,9.7
+ah_64a,"AH-64A",usa,6,11.3
+ah_64d,"AH-64D",usa,7,11.7
+ah_mk1,"AH Mk.1 Apache",britain,7,11.7
+g_lynx,"G-LYNX",britain,6,10.7
+ah_2_rooivalk,"Rooivalk Mk1F CSH",britain,6,11.7
+ah_1w_china,"␗AH-1W",china,6,11.0
+h_34_france,"▄H-34",france,5,8.0
+iar_316b,"IAR 316B",france,5,8.3
+bo_105pah1,"BO 105 PAH-1",germany,6,9.3
+bo_105pah1_a1,"BO 105 PAH-1A1",germany,6,9.3
+bo_105cb2,"BO 105 CB-2",germany,5,9.3
+ah_1g_iaf,"Tzefa A",israel,5,7.7
+ah_1q_iaf,"Tzefa B",israel,6,9.0
+ah_1f_iaf,"Tzefa D/E",israel,6,9.7
+ah_64a_iaf,"Peten",israel,6,11.3
+ah_64d_i_saraph,"Saraph",israel,7,12.7
+ah_60_iaf,"AH-60",israel,7,12.7
+ah_64a_peten_iaf,"AH-64A Peten",israel,6,11.3
+ab_205a_1,"AB 205 A-1",italy,5,7.7
+a_109_eoa2,"A.109EOA-2",italy,6,8.7
+a_129_cbt,"A129CBT",italy,7,11.0
+a_129_d,"AH-129D",italy,7,12.7
+a_129_a,"A-129 International (p)",italy,6,11.0
+ah_1s_early,"▅AH-1E",japan,6,9.3
+ah_1s_late,"AH-1S",japan,6,9.7
+ah_64d_japan,"AH-64DJP",japan,7,11.3
+ah_1s,"AH-1S Kisarazu",japan,6,9.7
+hkp3c,"HKP3C",sweden,5,7.7
+hkp2,"HKP2",sweden,5,8.3
+hkp9a_cb2,"HKP9A",sweden,6,9.3
+hkp9a_cb3_fc,"HKP9A (FC)",sweden,6,9.3
+ahs,"AHS",sweden,7,11.3
+ah_1g,"AH-1G",usa,5,7.7
+ah_1w,"AH-1W",usa,6,11.0
+ah_1z,"AH-1Z",usa,7,12.0
+ah_6m,"AH-6M",usa,6,10.3
+h_34,"H-34",usa,5,8.0
+ah_64a_greece_usa,"▃AH-64A (GR)",usa,6,11.3
+ah_64a_peten,"▃AH-64A Peten",usa,6,11.3
+ah_64d_netherlands,"◘AH-64D",france,7,11.3
+ah_64e,"AH-64E",usa,7,13.0
+ah_64e_britain,"AH Mk.2 Apache",britain,7,13.0
+ah_64e_china,"␗AH-64E",china,7,13.0
+ah_64e_netherlands,"◘AH-64E",france,7,13.0
+ah_64e_indonesia,"◥AH-64E",japan,7,13.0
+ah_56a,"AH-56A",usa,6,9.7
+ah_64d_lightweight_japan,"AH-64DJP (AT)",japan,7,11.3
+aw_159,"Wildcat HMA2",britain,7,12.3
+h145m,"H145M",germany,7,12.7
+scout_ah_mk1,"Scout AH.Mk.1",britain,5,8.3
+lynx_ah_mk1,"Lynx AH.Mk.1",britain,6,10.7
+sa_342l_china,"SA.342L Gazelle",china,5,9.3
+oh_58d_china,"␗OH-58D",china,6,10.3
+sa_316b,"SA 316B Alouette III",france,5,8.3
+sa_341f,"SA.341F Gazelle",france,6,9.0
+sa_342m,"SA.342M Gazelle",france,6,9.7
+tiger_had_france,"EC-665 Tiger HAD",france,7,11.0
+tiger_had_block2_france,"Tiger HAD Block 2",france,7,12.7
+sa_313b_france,"SA 313B Alouette II",france,5,8.3
+tiger_hap_france,"EC-665 Tiger HAP",france,6,10.0
+sa_313b,"◄SA 313B Alouette II",germany,5,8.3
+tiger_uht,"EC-665 Tiger UHT",germany,7,12.7
+mi_8tb,"◊Mi-8TB",germany,5,8.0
+mi_24p_german,"◊Mi-24P",germany,6,9.7
+mi_24p_german_hfs80,"◄Mi-24P HFS 80",germany,6,9.7
+md_500_tow_late,"Lahatut",israel,5,9.0
+mi_24d_hungary,"◔Mi-24D",italy,5,8.7
+mi_24v_hungary,"◔Mi-24V",italy,6,9.7
+t_129_atak,"T129",italy,6,10.7
+mi_24p_hungary,"◔Mi-24P",italy,6,9.7
+uh_1b_japan,"▅UH-1B",japan,5,7.7
+mi_28a_sweden,"Mi-28A",sweden,6,10.7
+uh_1b,"UH-1B",usa,5,8.3
+uh_1c,"UH-1C",usa,5,8.7
+oh_58d,"OH-58D",usa,6,10.3
+mh_60l_dap,"MH-60L DAP",usa,7,11.0
+uh_1c_xm_30,"UH-1C XM-30",usa,5,8.7
+mi_4av,"Mi-4AV",ussr,5,8.0
+mi_24a,"Mi-24A",ussr,5,8.7
+mi_24v,"Mi-24V",ussr,6,9.7
+mi_24p,"Mi-24P",ussr,6,9.7
+mi_35m,"Mi-35M",ussr,6,10.7
+mi_28n,"Mi-28N",ussr,7,11.0
+mi_28nm,"Mi-28NM",ussr,7,13.0
+mi_8tv,"Mi-8TV",ussr,5,8.0
+mi_8amtsh,"Mi-8AMTSh",ussr,6,9.7
+ka_29,"Ka-29",ussr,6,9.7
+ka_52,"Ka-52",ussr,7,12.0
+mi_24d,"▂Mi-24D",ussr,5,8.7
+ka_50,"Ka-50",ussr,6,11.3
+super_hind_mk3,"Superhind",britain,6,10.3
+mi_35m_pakistan,"▄Mi-35M",china,6,10.7
+mi_8amtsh_vn,"Mi-8AMTSh-VN",ussr,7,11.0
+tiger_hac_france,"EC-665 Tiger HAC",france,7,12.7
+tiger_had_spain,"▄Tigre HAD-E",germany,7,11.0
+rah_66,"RAH-66",usa,6,11.3
+mi_35p_indonesia,"◥Mi-35",japan,6,9.7
+mi_35p,"Mi-35P",ussr,7,11.7
+mi_24d_german,"◊Mi-24D",germany,6,8.7
+wasp_has_mk1,"Wasp HAS.Mk.1",britain,5,9.0
+wessex_mk5,"Wessex HU Mk.5",britain,5,9.0
+z_11wa,"Z-11WA",china,5,9.0
+z_9w,"Z-9W",china,6,10.3
+z_9wa,"Z-9WA",china,6,11.0
+z_19,"Z-19",china,6,11.7
+z_10,"Z-10",china,7,11.7
+z_19e,"Z-19E",china,6,11.7
+uh_1d,"◄UH-1D",germany,5,8.3
+yah_64,"YAH-64",usa,6,11.3
+z_10me,"Z-10ME",china,7,13.0
+z_10a,"Z-10A",china,7,11.7
