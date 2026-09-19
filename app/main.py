@@ -11,6 +11,7 @@ Run locally:
 """
 from fastapi import Depends, FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+import requests as requests_lib
 from sqlalchemy import text
 from sqlalchemy.orm import Session
 
@@ -20,11 +21,14 @@ from app.schemas import (
     HeatmapCell,
     HeatmapOut,
     Mode,
+    PlayerModeStatsOut,
+    PlayerProfileOut,
     VehicleClass,
     VehicleDetailOut,
     VehicleOut,
     VehicleStatsOut,
 )
+from worker.collector import fetch_player_overall_stats
 
 app = FastAPI(title="WT Stats API", version="0.1.0")
 
@@ -166,3 +170,45 @@ def compare(req: CompareRequest, db: Session = Depends(get_db)) -> list[dict]:
         out.append(dict(vehicle) | {"class_": vehicle["class"], "stats": [dict(stat)] if stat else []})
 
     return out
+
+
+@app.get("/players/{name}", response_model=PlayerProfileOut)
+def get_player(name: str) -> dict:
+    """
+    Live-fetches whole-account per-mode stats from Thunderskill's public
+    export endpoint (thunderskill.com/en/stat/<name>/export/json) — no
+    caching yet, every request hits the source directly. That's fine at
+    low traffic; revisit if this page gets popular enough to warrant
+    storing a snapshot in player_overall_stats instead.
+
+    Returns 404 for a player with no public profile, 503 if the upstream
+    source itself is unreachable (distinct cases so the frontend can show
+    the right message for each).
+    """
+    try:
+        mode_stats, last_stat = fetch_player_overall_stats(name)
+    except requests_lib.RequestException:
+        raise HTTPException(
+            status_code=503,
+            detail="Player lookup is temporarily unavailable (the stats source is unreachable). Try again shortly.",
+        )
+
+    if not mode_stats:
+        raise HTTPException(status_code=404, detail="no public profile found for that player name")
+
+    return {
+        "name": name,
+        "stats": [
+            {
+                "mode": s.mode,
+                "wins": s.wins,
+                "battles": s.battles,
+                "deaths": s.deaths,
+                "win_rate": s.win_rate,
+                "kd_ratio": s.kd_ratio,
+                "kills_per_battle": s.kills_per_battle,
+            }
+            for s in mode_stats
+        ],
+        "source_last_stat": last_stat.isoformat() if last_stat else None,
+    }

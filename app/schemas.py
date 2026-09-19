@@ -52,8 +52,17 @@ class CompareRequest(BaseModel):
     mode: Mode = "realistic"
 
 
-class PlayerOut(BaseModel):
-    id: int
+class PlayerModeStatsOut(BaseModel):
+    mode: Mode
+    wins: int | None
+    battles: int | None
+    deaths: int | None
+    win_rate: float | None
+    kd_ratio: float | None
+    kills_per_battle: float | None
+
+
+class PlayerProfileOut(BaseModel):
     name: str
-    squadron_tag: str | None
-    last_seen: str
+    stats: list[PlayerModeStatsOut]
+    source_last_stat: str | None = None
